@@ -1,0 +1,9 @@
+{
+	"version": 1,
+	"attached_datasets": [
+		{
+			"id": "57a42c66-b6ca-4b56-b8ad-929be00ebff9",
+			"mount": "allen_mouse_ccf"
+		}
+	]
+}
